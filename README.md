@@ -55,3 +55,4 @@
 |26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/laurarepo1> | <https://lauragehr.netlify.app> | 2022-09-02 |
 |27|Emilia Moskala  | 3 | emmoskala |<https://github.com/emmoskala/mywebsite>       | <https://emmoskala.netlify.app>  | 2022-09-02  |
 |28|Mingyu Dai  | 13 | iris-mingyudai | <https://github.com/iris-mingyudai/iris_web> |  <https://irisportfolio.netlify.app/> | 2022-09-02  |
+|29|Siddharth Gulati  | 7 | siddharthgulati98 | <https://github.com/SiddharthGulati98> |  <https://siddharthgulati98.netlify.app> | 2022-09-02  |
