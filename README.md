@@ -77,3 +77,6 @@
 |48| Zitong Hu | 7| zitonghu | [https://github.com/zitonghu/my_website | https://zitonghu.netlify.app/ | 2022-09-07 |
 |49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
 |50| Jingyi Fang | 03 | jfang219 | <https://github.com/jfang219/mywebsite> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
+|51| Lejla Kajevic | 7| lejla24 | <https://github.com/lejla24/my_website_3.git> | <https://lejlasportfolio.netlify.app/> | 2022-09-09 |
+|52| Siddharth Gulati | 7| SiddharthGulati98 | <https://github.com/SiddharthGulati98/my_website> | <https://siddharth-gulati.netlify.app/> | 2022-09-09 |
+
